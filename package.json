@@ -10,20 +10,22 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/turingschool-examples/game-time-starter-kit.git"
+    "url": "https://github.com/rcwestlake"
   },
-  "author": "Steve Kinney",
+  "author": "Ryan Westlake",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/turingschool-examples/game-time-starter-kit/issues"
+    "url": "https://github.com/rcwestlake  "
   },
-  "homepage": "https://github.com/turingschool-examples/game-time-starter-kit",
+  "homepage": "https://github.com/rcwestlake",
   "devDependencies": {
     "babel": "^6.5.2",
     "babel-core": "^6.11.4",
     "babel-loader": "^6.2.4",
     "chai": "^3.2.0",
     "css-loader": "^0.23.1",
+    "jquery": "^3.1.0",
+    "lodash": "^4.15.0",
     "mocha": "^2.2.5",
     "mocha-loader": "^0.7.1",
     "node-libs-browser": "^1.0.0",
